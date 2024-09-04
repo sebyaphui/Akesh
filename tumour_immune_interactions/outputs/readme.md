@@ -1,0 +1,1 @@
+## A folder for all outputs: graphs, heatmaps, fish plots, debugging files and more

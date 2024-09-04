@@ -1,0 +1,1 @@
+## This folder is not git-ignored in my setup, so you can place simulations you wish to share over the repository here

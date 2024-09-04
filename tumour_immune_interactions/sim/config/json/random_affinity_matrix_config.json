@@ -1,0 +1,5 @@
+{
+    "from": "function",
+    "where": "discrete_model",
+    "function": "get_random_matrix_affinity"
+}

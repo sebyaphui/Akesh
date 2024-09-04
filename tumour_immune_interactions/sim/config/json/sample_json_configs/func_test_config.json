@@ -1,0 +1,5 @@
+{
+    "from" : "function",
+    "where": "config.conf",
+    "function" : "hello_world"
+}

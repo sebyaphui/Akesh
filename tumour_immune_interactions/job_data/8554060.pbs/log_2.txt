@@ -1,0 +1,1809 @@
+Successfully opened the previous simulation.
+Creating a new simulation.
+['Default', 'Config1', 'Config2', 'Config3', 'Config4', 'Config5', 'Config6', 'Config7', 'Config9', 'Config10', 'MConfig1', 'MConfig1Mod', 'Config8', 'Config11', 'Config12', 'Config13', 'Config14', 'Config15', 'Config16', 'Config17', 'Config18', 'Config19', 'Config20', 'Config21', 'Config22', 'Config23', 'Config24', 'Config25', 'Config26', 'Config27', 'Config28', 'Config29', 'Config30', 'Config31', 'Config32', 'Config33', 'Test', 'Config34', 'Config35', 'Config36', 'Config37', 'Al1_1', 'Al1_2', 'Al1_3', 'Al1_4', 'Al1_5', 'Al1_6', 'Al1_7', 'Al1_8', 'Al1_9', 'Al1_10']
+Al1_2
+The simulation is starting.
+C:  17212  | T: 38562
+Iteration done.
+Time step:  1 / 600
+C:  18028  | T: 40686
+Iteration done.
+Time step:  2 / 600
+C:  18833  | T: 43093
+Iteration done.
+Time step:  3 / 600
+C:  19699  | T: 45525
+Iteration done.
+Time step:  4 / 600
+C:  20576  | T: 48329
+Iteration done.
+Time step:  5 / 600
+C:  21425  | T: 51493
+Iteration done.
+Time step:  6 / 600
+C:  22362  | T: 54904
+Iteration done.
+Time step:  7 / 600
+C:  23306  | T: 58756
+Iteration done.
+Time step:  8 / 600
+C:  24292  | T: 62987
+Iteration done.
+Time step:  9 / 600
+C:  25332  | T: 67717
+Iteration done.
+Time step:  10 / 600
+C:  26321  | T: 72756
+Iteration done.
+Time step:  11 / 600
+C:  27233  | T: 78437
+Iteration done.
+Time step:  12 / 600
+C:  28237  | T: 84716
+Iteration done.
+Time step:  13 / 600
+C:  29228  | T: 91843
+Iteration done.
+Time step:  14 / 600
+C:  30086  | T: 99738
+Iteration done.
+Time step:  15 / 600
+C:  30873  | T: 108521
+Iteration done.
+Time step:  16 / 600
+C:  31654  | T: 118125
+Iteration done.
+Time step:  17 / 600
+C:  32261  | T: 128647
+Iteration done.
+Time step:  18 / 600
+C:  32658  | T: 140277
+Iteration done.
+Time step:  19 / 600
+C:  33031  | T: 152782
+Iteration done.
+Time step:  20 / 600
+C:  33193  | T: 166303
+Iteration done.
+Time step:  21 / 600
+C:  33183  | T: 180936
+Iteration done.
+Time step:  22 / 600
+C:  33047  | T: 196534
+Iteration done.
+Time step:  23 / 600
+C:  32613  | T: 212752
+Iteration done.
+Time step:  24 / 600
+C:  32036  | T: 229523
+Iteration done.
+Time step:  25 / 600
+C:  31322  | T: 246822
+Iteration done.
+Time step:  26 / 600
+C:  30392  | T: 264154
+Iteration done.
+Time step:  27 / 600
+C:  29120  | T: 281785
+Iteration done.
+Time step:  28 / 600
+C:  27851  | T: 299093
+Iteration done.
+Time step:  29 / 600
+C:  26436  | T: 316187
+Iteration done.
+Time step:  30 / 600
+C:  24998  | T: 332215
+Iteration done.
+Time step:  31 / 600
+C:  23516  | T: 347130
+Iteration done.
+Time step:  32 / 600
+C:  21788  | T: 360227
+Iteration done.
+Time step:  33 / 600
+C:  20231  | T: 371793
+Iteration done.
+Time step:  34 / 600
+C:  18730  | T: 382030
+Iteration done.
+Time step:  35 / 600
+C:  17266  | T: 390395
+Iteration done.
+Time step:  36 / 600
+C:  15925  | T: 397462
+Iteration done.
+Time step:  37 / 600
+C:  14691  | T: 402804
+Iteration done.
+Time step:  38 / 600
+C:  13583  | T: 406568
+Iteration done.
+Time step:  39 / 600
+C:  12485  | T: 409618
+Iteration done.
+Time step:  40 / 600
+C:  11461  | T: 411270
+Iteration done.
+Time step:  41 / 600
+C:  10569  | T: 411794
+Iteration done.
+Time step:  42 / 600
+C:  9787  | T: 411731
+Iteration done.
+Time step:  43 / 600
+C:  9141  | T: 410743
+Iteration done.
+Time step:  44 / 600
+C:  8504  | T: 409078
+Iteration done.
+Time step:  45 / 600
+C:  7957  | T: 407387
+Iteration done.
+Time step:  46 / 600
+C:  7412  | T: 405020
+Iteration done.
+Time step:  47 / 600
+C:  7015  | T: 402194
+Iteration done.
+Time step:  48 / 600
+C:  6650  | T: 398940
+Iteration done.
+Time step:  49 / 600
+C:  6296  | T: 395669
+Iteration done.
+Time step:  50 / 600
+C:  5972  | T: 392360
+Iteration done.
+Time step:  51 / 600
+C:  5678  | T: 389047
+Iteration done.
+Time step:  52 / 600
+C:  5418  | T: 385282
+Iteration done.
+Time step:  53 / 600
+C:  5227  | T: 381669
+Iteration done.
+Time step:  54 / 600
+C:  5011  | T: 378211
+Iteration done.
+Time step:  55 / 600
+C:  4828  | T: 374264
+Iteration done.
+Time step:  56 / 600
+C:  4659  | T: 370650
+Iteration done.
+Time step:  57 / 600
+C:  4554  | T: 367207
+Iteration done.
+Time step:  58 / 600
+C:  4446  | T: 364026
+Iteration done.
+Time step:  59 / 600
+C:  4342  | T: 360992
+Iteration done.
+Time step:  60 / 600
+C:  4265  | T: 357430
+Iteration done.
+Time step:  61 / 600
+C:  4186  | T: 354459
+Iteration done.
+Time step:  62 / 600
+C:  4100  | T: 351520
+Iteration done.
+Time step:  63 / 600
+C:  4041  | T: 348712
+Iteration done.
+Time step:  64 / 600
+C:  3982  | T: 346034
+Iteration done.
+Time step:  65 / 600
+C:  3930  | T: 343154
+Iteration done.
+Time step:  66 / 600
+C:  3867  | T: 340389
+Iteration done.
+Time step:  67 / 600
+C:  3825  | T: 337732
+Iteration done.
+Time step:  68 / 600
+C:  3774  | T: 335270
+Iteration done.
+Time step:  69 / 600
+C:  3759  | T: 333047
+Iteration done.
+Time step:  70 / 600
+C:  3714  | T: 330949
+Iteration done.
+Time step:  71 / 600
+C:  3683  | T: 328524
+Iteration done.
+Time step:  72 / 600
+C:  3640  | T: 326566
+Iteration done.
+Time step:  73 / 600
+C:  3610  | T: 324408
+Iteration done.
+Time step:  74 / 600
+C:  3588  | T: 322522
+Iteration done.
+Time step:  75 / 600
+C:  3551  | T: 320570
+Iteration done.
+Time step:  76 / 600
+C:  3533  | T: 318978
+Iteration done.
+Time step:  77 / 600
+C:  3517  | T: 317212
+Iteration done.
+Time step:  78 / 600
+C:  3483  | T: 315342
+Iteration done.
+Time step:  79 / 600
+C:  3472  | T: 313726
+Iteration done.
+Time step:  80 / 600
+C:  3447  | T: 312435
+Iteration done.
+Time step:  81 / 600
+C:  3436  | T: 310878
+Iteration done.
+Time step:  82 / 600
+C:  3433  | T: 309366
+Iteration done.
+Time step:  83 / 600
+C:  3417  | T: 307945
+Iteration done.
+Time step:  84 / 600
+C:  3396  | T: 306206
+Iteration done.
+Time step:  85 / 600
+C:  3376  | T: 304872
+Iteration done.
+Time step:  86 / 600
+C:  3377  | T: 303496
+Iteration done.
+Time step:  87 / 600
+C:  3363  | T: 302255
+Iteration done.
+Time step:  88 / 600
+C:  3351  | T: 301221
+Iteration done.
+Time step:  89 / 600
+C:  3341  | T: 300214
+Iteration done.
+Time step:  90 / 600
+C:  3339  | T: 299144
+Iteration done.
+Time step:  91 / 600
+C:  3326  | T: 298061
+Iteration done.
+Time step:  92 / 600
+C:  3310  | T: 297284
+Iteration done.
+Time step:  93 / 600
+C:  3303  | T: 296308
+Iteration done.
+Time step:  94 / 600
+C:  3294  | T: 295205
+Iteration done.
+Time step:  95 / 600
+C:  3281  | T: 294244
+Iteration done.
+Time step:  96 / 600
+C:  3262  | T: 293400
+Iteration done.
+Time step:  97 / 600
+C:  3248  | T: 292511
+Iteration done.
+Time step:  98 / 600
+C:  3242  | T: 291637
+Iteration done.
+Time step:  99 / 600
+C:  3239  | T: 290935
+Iteration done.
+Time step:  100 / 600
+C:  3236  | T: 290270
+Iteration done.
+Time step:  101 / 600
+C:  3236  | T: 289261
+Iteration done.
+Time step:  102 / 600
+C:  3228  | T: 288578
+Iteration done.
+Time step:  103 / 600
+C:  3225  | T: 287729
+Iteration done.
+Time step:  104 / 600
+C:  3218  | T: 287090
+Iteration done.
+Time step:  105 / 600
+C:  3215  | T: 286352
+Iteration done.
+Time step:  106 / 600
+C:  3215  | T: 285574
+Iteration done.
+Time step:  107 / 600
+C:  3211  | T: 284965
+Iteration done.
+Time step:  108 / 600
+C:  3206  | T: 284479
+Iteration done.
+Time step:  109 / 600
+C:  3203  | T: 283782
+Iteration done.
+Time step:  110 / 600
+C:  3197  | T: 283115
+Iteration done.
+Time step:  111 / 600
+C:  3191  | T: 282659
+Iteration done.
+Time step:  112 / 600
+C:  3190  | T: 282361
+Iteration done.
+Time step:  113 / 600
+C:  3189  | T: 281541
+Iteration done.
+Time step:  114 / 600
+C:  3183  | T: 281227
+Iteration done.
+Time step:  115 / 600
+C:  3181  | T: 280722
+Iteration done.
+Time step:  116 / 600
+C:  3181  | T: 280384
+Iteration done.
+Time step:  117 / 600
+C:  3182  | T: 279788
+Iteration done.
+Time step:  118 / 600
+C:  3181  | T: 279399
+Iteration done.
+Time step:  119 / 600
+C:  3178  | T: 278666
+Iteration done.
+Time step:  120 / 600
+C:  3178  | T: 278327
+Iteration done.
+Time step:  121 / 600
+C:  3180  | T: 277872
+Iteration done.
+Time step:  122 / 600
+C:  3173  | T: 277609
+Iteration done.
+Time step:  123 / 600
+C:  3171  | T: 277439
+Iteration done.
+Time step:  124 / 600
+C:  3169  | T: 276917
+Iteration done.
+Time step:  125 / 600
+C:  3165  | T: 276670
+Iteration done.
+Time step:  126 / 600
+C:  3162  | T: 276343
+Iteration done.
+Time step:  127 / 600
+C:  3157  | T: 276170
+Iteration done.
+Time step:  128 / 600
+C:  3156  | T: 275987
+Iteration done.
+Time step:  129 / 600
+C:  3156  | T: 275611
+Iteration done.
+Time step:  130 / 600
+C:  3159  | T: 275194
+Iteration done.
+Time step:  131 / 600
+C:  3154  | T: 274922
+Iteration done.
+Time step:  132 / 600
+C:  3150  | T: 274529
+Iteration done.
+Time step:  133 / 600
+C:  3144  | T: 274237
+Iteration done.
+Time step:  134 / 600
+C:  3138  | T: 273974
+Iteration done.
+Time step:  135 / 600
+C:  3136  | T: 273799
+Iteration done.
+Time step:  136 / 600
+C:  3129  | T: 273333
+Iteration done.
+Time step:  137 / 600
+C:  3128  | T: 273127
+Iteration done.
+Time step:  138 / 600
+C:  3129  | T: 273039
+Iteration done.
+Time step:  139 / 600
+C:  3124  | T: 272661
+Iteration done.
+Time step:  140 / 600
+C:  3125  | T: 272207
+Iteration done.
+Time step:  141 / 600
+C:  3119  | T: 272147
+Iteration done.
+Time step:  142 / 600
+C:  3118  | T: 271844
+Iteration done.
+Time step:  143 / 600
+C:  3119  | T: 271792
+Iteration done.
+Time step:  144 / 600
+C:  3119  | T: 271671
+Iteration done.
+Time step:  145 / 600
+C:  3120  | T: 271515
+Iteration done.
+Time step:  146 / 600
+C:  3115  | T: 271270
+Iteration done.
+Time step:  147 / 600
+C:  3114  | T: 270928
+Iteration done.
+Time step:  148 / 600
+C:  3114  | T: 270624
+Iteration done.
+Time step:  149 / 600
+C:  3115  | T: 270462
+Iteration done.
+Time step:  150 / 600
+C:  3110  | T: 270080
+Iteration done.
+Time step:  151 / 600
+C:  3111  | T: 270151
+Iteration done.
+Time step:  152 / 600
+C:  3108  | T: 269953
+Iteration done.
+Time step:  153 / 600
+C:  3106  | T: 270132
+Iteration done.
+Time step:  154 / 600
+C:  3099  | T: 269910
+Iteration done.
+Time step:  155 / 600
+C:  3095  | T: 269683
+Iteration done.
+Time step:  156 / 600
+C:  3094  | T: 269481
+Iteration done.
+Time step:  157 / 600
+C:  3093  | T: 269387
+Iteration done.
+Time step:  158 / 600
+C:  3092  | T: 268898
+Iteration done.
+Time step:  159 / 600
+C:  3093  | T: 268959
+Iteration done.
+Time step:  160 / 600
+C:  3097  | T: 268784
+Iteration done.
+Time step:  161 / 600
+C:  3093  | T: 268755
+Iteration done.
+Time step:  162 / 600
+C:  3088  | T: 268490
+Iteration done.
+Time step:  163 / 600
+C:  3087  | T: 268469
+Iteration done.
+Time step:  164 / 600
+C:  3083  | T: 268658
+Iteration done.
+Time step:  165 / 600
+C:  3081  | T: 268482
+Iteration done.
+Time step:  166 / 600
+C:  3079  | T: 268290
+Iteration done.
+Time step:  167 / 600
+C:  3076  | T: 268335
+Iteration done.
+Time step:  168 / 600
+C:  3076  | T: 268274
+Iteration done.
+Time step:  169 / 600
+C:  3076  | T: 268166
+Iteration done.
+Time step:  170 / 600
+C:  3077  | T: 267930
+Iteration done.
+Time step:  171 / 600
+C:  3078  | T: 267727
+Iteration done.
+Time step:  172 / 600
+C:  3075  | T: 267696
+Iteration done.
+Time step:  173 / 600
+C:  3071  | T: 267469
+Iteration done.
+Time step:  174 / 600
+C:  3069  | T: 267497
+Iteration done.
+Time step:  175 / 600
+C:  3072  | T: 267488
+Iteration done.
+Time step:  176 / 600
+C:  3070  | T: 267386
+Iteration done.
+Time step:  177 / 600
+C:  3069  | T: 267349
+Iteration done.
+Time step:  178 / 600
+C:  3067  | T: 267476
+Iteration done.
+Time step:  179 / 600
+C:  3065  | T: 267416
+Iteration done.
+Time step:  180 / 600
+C:  3065  | T: 267196
+Iteration done.
+Time step:  181 / 600
+C:  3067  | T: 267099
+Iteration done.
+Time step:  182 / 600
+C:  3065  | T: 266934
+Iteration done.
+Time step:  183 / 600
+C:  3061  | T: 266927
+Iteration done.
+Time step:  184 / 600
+C:  3062  | T: 266784
+Iteration done.
+Time step:  185 / 600
+C:  3066  | T: 266849
+Iteration done.
+Time step:  186 / 600
+C:  3067  | T: 266574
+Iteration done.
+Time step:  187 / 600
+C:  3066  | T: 266225
+Iteration done.
+Time step:  188 / 600
+C:  3072  | T: 266282
+Iteration done.
+Time step:  189 / 600
+C:  3071  | T: 266123
+Iteration done.
+Time step:  190 / 600
+C:  3073  | T: 266202
+Iteration done.
+Time step:  191 / 600
+C:  3073  | T: 266222
+Iteration done.
+Time step:  192 / 600
+C:  3074  | T: 266166
+Iteration done.
+Time step:  193 / 600
+C:  3072  | T: 266176
+Iteration done.
+Time step:  194 / 600
+C:  3071  | T: 266300
+Iteration done.
+Time step:  195 / 600
+C:  3071  | T: 266293
+Iteration done.
+Time step:  196 / 600
+C:  3065  | T: 266257
+Iteration done.
+Time step:  197 / 600
+C:  3060  | T: 266370
+Iteration done.
+Time step:  198 / 600
+C:  3054  | T: 266154
+Iteration done.
+Time step:  199 / 600
+C:  3054  | T: 266059
+Iteration done.
+Time step:  200 / 600
+C:  3050  | T: 265687
+Iteration done.
+Time step:  201 / 600
+C:  3051  | T: 265593
+Iteration done.
+Time step:  202 / 600
+C:  3049  | T: 265344
+Iteration done.
+Time step:  203 / 600
+C:  3049  | T: 265072
+Iteration done.
+Time step:  204 / 600
+C:  3045  | T: 264617
+Iteration done.
+Time step:  205 / 600
+C:  3043  | T: 264513
+Iteration done.
+Time step:  206 / 600
+C:  3043  | T: 264441
+Iteration done.
+Time step:  207 / 600
+C:  3040  | T: 264350
+Iteration done.
+Time step:  208 / 600
+C:  3037  | T: 264214
+Iteration done.
+Time step:  209 / 600
+C:  3038  | T: 264195
+Iteration done.
+Time step:  210 / 600
+C:  3039  | T: 264151
+Iteration done.
+Time step:  211 / 600
+C:  3037  | T: 264062
+Iteration done.
+Time step:  212 / 600
+C:  3038  | T: 264326
+Iteration done.
+Time step:  213 / 600
+C:  3035  | T: 264205
+Iteration done.
+Time step:  214 / 600
+C:  3036  | T: 264227
+Iteration done.
+Time step:  215 / 600
+C:  3039  | T: 264488
+Iteration done.
+Time step:  216 / 600
+C:  3039  | T: 264413
+Iteration done.
+Time step:  217 / 600
+C:  3041  | T: 264530
+Iteration done.
+Time step:  218 / 600
+C:  3039  | T: 264603
+Iteration done.
+Time step:  219 / 600
+C:  3040  | T: 264634
+Iteration done.
+Time step:  220 / 600
+C:  3038  | T: 264572
+Iteration done.
+Time step:  221 / 600
+C:  3036  | T: 264640
+Iteration done.
+Time step:  222 / 600
+C:  3032  | T: 264588
+Iteration done.
+Time step:  223 / 600
+C:  3033  | T: 264619
+Iteration done.
+Time step:  224 / 600
+C:  3031  | T: 264585
+Iteration done.
+Time step:  225 / 600
+C:  3033  | T: 264565
+Iteration done.
+Time step:  226 / 600
+C:  3034  | T: 264714
+Iteration done.
+Time step:  227 / 600
+C:  3036  | T: 264704
+Iteration done.
+Time step:  228 / 600
+C:  3039  | T: 264941
+Iteration done.
+Time step:  229 / 600
+C:  3035  | T: 264949
+Iteration done.
+Time step:  230 / 600
+C:  3029  | T: 264907
+Iteration done.
+Time step:  231 / 600
+C:  3029  | T: 264900
+Iteration done.
+Time step:  232 / 600
+C:  3024  | T: 264677
+Iteration done.
+Time step:  233 / 600
+C:  3019  | T: 264361
+Iteration done.
+Time step:  234 / 600
+C:  3016  | T: 264257
+Iteration done.
+Time step:  235 / 600
+C:  3014  | T: 264274
+Iteration done.
+Time step:  236 / 600
+C:  3013  | T: 264283
+Iteration done.
+Time step:  237 / 600
+C:  3011  | T: 264057
+Iteration done.
+Time step:  238 / 600
+C:  3010  | T: 264290
+Iteration done.
+Time step:  239 / 600
+C:  3005  | T: 264205
+Iteration done.
+Time step:  240 / 600
+C:  3005  | T: 264184
+Iteration done.
+Time step:  241 / 600
+C:  3004  | T: 264263
+Iteration done.
+Time step:  242 / 600
+C:  3002  | T: 264067
+Iteration done.
+Time step:  243 / 600
+C:  3002  | T: 263955
+Iteration done.
+Time step:  244 / 600
+C:  3001  | T: 264157
+Iteration done.
+Time step:  245 / 600
+C:  3000  | T: 264226
+Iteration done.
+Time step:  246 / 600
+C:  2997  | T: 264143
+Iteration done.
+Time step:  247 / 600
+C:  2995  | T: 264178
+Iteration done.
+Time step:  248 / 600
+C:  2994  | T: 263965
+Iteration done.
+Time step:  249 / 600
+C:  2991  | T: 263945
+Iteration done.
+Time step:  250 / 600
+C:  2993  | T: 263783
+Iteration done.
+Time step:  251 / 600
+C:  2995  | T: 263933
+Iteration done.
+Time step:  252 / 600
+C:  2995  | T: 263920
+Iteration done.
+Time step:  253 / 600
+C:  2994  | T: 263724
+Iteration done.
+Time step:  254 / 600
+C:  2993  | T: 263729
+Iteration done.
+Time step:  255 / 600
+C:  2989  | T: 263745
+Iteration done.
+Time step:  256 / 600
+C:  2986  | T: 263807
+Iteration done.
+Time step:  257 / 600
+C:  2984  | T: 263541
+Iteration done.
+Time step:  258 / 600
+C:  2982  | T: 263253
+Iteration done.
+Time step:  259 / 600
+C:  2980  | T: 263309
+Iteration done.
+Time step:  260 / 600
+C:  2981  | T: 263247
+Iteration done.
+Time step:  261 / 600
+C:  2979  | T: 263134
+Iteration done.
+Time step:  262 / 600
+C:  2974  | T: 263007
+Iteration done.
+Time step:  263 / 600
+C:  2973  | T: 262921
+Iteration done.
+Time step:  264 / 600
+C:  2975  | T: 262804
+Iteration done.
+Time step:  265 / 600
+C:  2973  | T: 262727
+Iteration done.
+Time step:  266 / 600
+C:  2973  | T: 262980
+Iteration done.
+Time step:  267 / 600
+C:  2971  | T: 262913
+Iteration done.
+Time step:  268 / 600
+C:  2972  | T: 262897
+Iteration done.
+Time step:  269 / 600
+C:  2967  | T: 262452
+Iteration done.
+Time step:  270 / 600
+C:  2965  | T: 262457
+Iteration done.
+Time step:  271 / 600
+C:  2967  | T: 262553
+Iteration done.
+Time step:  272 / 600
+C:  2967  | T: 262655
+Iteration done.
+Time step:  273 / 600
+C:  2970  | T: 262708
+Iteration done.
+Time step:  274 / 600
+C:  2967  | T: 262700
+Iteration done.
+Time step:  275 / 600
+C:  2967  | T: 262698
+Iteration done.
+Time step:  276 / 600
+C:  2967  | T: 262609
+Iteration done.
+Time step:  277 / 600
+C:  2966  | T: 262488
+Iteration done.
+Time step:  278 / 600
+C:  2963  | T: 262554
+Iteration done.
+Time step:  279 / 600
+C:  2964  | T: 262326
+Iteration done.
+Time step:  280 / 600
+C:  2965  | T: 262382
+Iteration done.
+Time step:  281 / 600
+C:  2963  | T: 262365
+Iteration done.
+Time step:  282 / 600
+C:  2962  | T: 262332
+Iteration done.
+Time step:  283 / 600
+C:  2962  | T: 262432
+Iteration done.
+Time step:  284 / 600
+C:  2960  | T: 262575
+Iteration done.
+Time step:  285 / 600
+C:  2959  | T: 262605
+Iteration done.
+Time step:  286 / 600
+C:  2959  | T: 262759
+Iteration done.
+Time step:  287 / 600
+C:  2957  | T: 262815
+Iteration done.
+Time step:  288 / 600
+C:  2956  | T: 262679
+Iteration done.
+Time step:  289 / 600
+C:  2954  | T: 262847
+Iteration done.
+Time step:  290 / 600
+C:  2952  | T: 262837
+Iteration done.
+Time step:  291 / 600
+C:  2951  | T: 262894
+Iteration done.
+Time step:  292 / 600
+C:  2950  | T: 262698
+Iteration done.
+Time step:  293 / 600
+C:  2948  | T: 262702
+Iteration done.
+Time step:  294 / 600
+C:  2947  | T: 262767
+Iteration done.
+Time step:  295 / 600
+C:  2946  | T: 262909
+Iteration done.
+Time step:  296 / 600
+C:  2947  | T: 262930
+Iteration done.
+Time step:  297 / 600
+C:  2948  | T: 262911
+Iteration done.
+Time step:  298 / 600
+C:  2948  | T: 262901
+Iteration done.
+Time step:  299 / 600
+C:  2949  | T: 262881
+Iteration done.
+Time step:  300 / 600
+C:  2949  | T: 262783
+Iteration done.
+Time step:  301 / 600
+C:  2948  | T: 262596
+Iteration done.
+Time step:  302 / 600
+C:  2949  | T: 262522
+Iteration done.
+Time step:  303 / 600
+C:  2947  | T: 262393
+Iteration done.
+Time step:  304 / 600
+C:  2943  | T: 262571
+Iteration done.
+Time step:  305 / 600
+C:  2939  | T: 262544
+Iteration done.
+Time step:  306 / 600
+C:  2932  | T: 262496
+Iteration done.
+Time step:  307 / 600
+C:  2934  | T: 262304
+Iteration done.
+Time step:  308 / 600
+C:  2931  | T: 262279
+Iteration done.
+Time step:  309 / 600
+C:  2930  | T: 262325
+Iteration done.
+Time step:  310 / 600
+C:  2930  | T: 262203
+Iteration done.
+Time step:  311 / 600
+C:  2930  | T: 262119
+Iteration done.
+Time step:  312 / 600
+C:  2928  | T: 262170
+Iteration done.
+Time step:  313 / 600
+C:  2928  | T: 261864
+Iteration done.
+Time step:  314 / 600
+C:  2928  | T: 261770
+Iteration done.
+Time step:  315 / 600
+C:  2929  | T: 261857
+Iteration done.
+Time step:  316 / 600
+C:  2930  | T: 262002
+Iteration done.
+Time step:  317 / 600
+C:  2931  | T: 262063
+Iteration done.
+Time step:  318 / 600
+C:  2928  | T: 262203
+Iteration done.
+Time step:  319 / 600
+C:  2928  | T: 262401
+Iteration done.
+Time step:  320 / 600
+C:  2927  | T: 262496
+Iteration done.
+Time step:  321 / 600
+C:  2925  | T: 262542
+Iteration done.
+Time step:  322 / 600
+C:  2925  | T: 262396
+Iteration done.
+Time step:  323 / 600
+C:  2922  | T: 262455
+Iteration done.
+Time step:  324 / 600
+C:  2923  | T: 262453
+Iteration done.
+Time step:  325 / 600
+C:  2921  | T: 262487
+Iteration done.
+Time step:  326 / 600
+C:  2920  | T: 262221
+Iteration done.
+Time step:  327 / 600
+C:  2918  | T: 262243
+Iteration done.
+Time step:  328 / 600
+C:  2922  | T: 262199
+Iteration done.
+Time step:  329 / 600
+C:  2922  | T: 262398
+Iteration done.
+Time step:  330 / 600
+C:  2920  | T: 262226
+Iteration done.
+Time step:  331 / 600
+C:  2918  | T: 262084
+Iteration done.
+Time step:  332 / 600
+C:  2916  | T: 261864
+Iteration done.
+Time step:  333 / 600
+C:  2916  | T: 261607
+Iteration done.
+Time step:  334 / 600
+C:  2914  | T: 261585
+Iteration done.
+Time step:  335 / 600
+C:  2913  | T: 261587
+Iteration done.
+Time step:  336 / 600
+C:  2913  | T: 261687
+Iteration done.
+Time step:  337 / 600
+C:  2911  | T: 261710
+Iteration done.
+Time step:  338 / 600
+C:  2910  | T: 261863
+Iteration done.
+Time step:  339 / 600
+C:  2912  | T: 261965
+Iteration done.
+Time step:  340 / 600
+C:  2910  | T: 261876
+Iteration done.
+Time step:  341 / 600
+C:  2911  | T: 261864
+Iteration done.
+Time step:  342 / 600
+C:  2911  | T: 262028
+Iteration done.
+Time step:  343 / 600
+C:  2909  | T: 261924
+Iteration done.
+Time step:  344 / 600
+C:  2909  | T: 261821
+Iteration done.
+Time step:  345 / 600
+C:  2910  | T: 261807
+Iteration done.
+Time step:  346 / 600
+C:  2907  | T: 262012
+Iteration done.
+Time step:  347 / 600
+C:  2904  | T: 262253
+Iteration done.
+Time step:  348 / 600
+C:  2905  | T: 262279
+Iteration done.
+Time step:  349 / 600
+C:  2902  | T: 262601
+Iteration done.
+Time step:  350 / 600
+C:  2901  | T: 262557
+Iteration done.
+Time step:  351 / 600
+C:  2900  | T: 262643
+Iteration done.
+Time step:  352 / 600
+C:  2897  | T: 262599
+Iteration done.
+Time step:  353 / 600
+C:  2897  | T: 262364
+Iteration done.
+Time step:  354 / 600
+C:  2896  | T: 262462
+Iteration done.
+Time step:  355 / 600
+C:  2896  | T: 262336
+Iteration done.
+Time step:  356 / 600
+C:  2895  | T: 262239
+Iteration done.
+Time step:  357 / 600
+C:  2896  | T: 262407
+Iteration done.
+Time step:  358 / 600
+C:  2894  | T: 262301
+Iteration done.
+Time step:  359 / 600
+C:  2892  | T: 262415
+Iteration done.
+Time step:  360 / 600
+C:  2891  | T: 262471
+Iteration done.
+Time step:  361 / 600
+C:  2889  | T: 262351
+Iteration done.
+Time step:  362 / 600
+C:  2889  | T: 262318
+Iteration done.
+Time step:  363 / 600
+C:  2890  | T: 262297
+Iteration done.
+Time step:  364 / 600
+C:  2890  | T: 262180
+Iteration done.
+Time step:  365 / 600
+C:  2888  | T: 261946
+Iteration done.
+Time step:  366 / 600
+C:  2888  | T: 261647
+Iteration done.
+Time step:  367 / 600
+C:  2887  | T: 261421
+Iteration done.
+Time step:  368 / 600
+C:  2888  | T: 261547
+Iteration done.
+Time step:  369 / 600
+C:  2886  | T: 261542
+Iteration done.
+Time step:  370 / 600
+C:  2888  | T: 261636
+Iteration done.
+Time step:  371 / 600
+C:  2890  | T: 261660
+Iteration done.
+Time step:  372 / 600
+C:  2889  | T: 261682
+Iteration done.
+Time step:  373 / 600
+C:  2886  | T: 261773
+Iteration done.
+Time step:  374 / 600
+C:  2887  | T: 261869
+Iteration done.
+Time step:  375 / 600
+C:  2888  | T: 261758
+Iteration done.
+Time step:  376 / 600
+C:  2887  | T: 261508
+Iteration done.
+Time step:  377 / 600
+C:  2889  | T: 261498
+Iteration done.
+Time step:  378 / 600
+C:  2885  | T: 261519
+Iteration done.
+Time step:  379 / 600
+C:  2882  | T: 261635
+Iteration done.
+Time step:  380 / 600
+C:  2879  | T: 261684
+Iteration done.
+Time step:  381 / 600
+C:  2879  | T: 261373
+Iteration done.
+Time step:  382 / 600
+C:  2880  | T: 261456
+Iteration done.
+Time step:  383 / 600
+C:  2882  | T: 261306
+Iteration done.
+Time step:  384 / 600
+C:  2882  | T: 261594
+Iteration done.
+Time step:  385 / 600
+C:  2877  | T: 261676
+Iteration done.
+Time step:  386 / 600
+C:  2875  | T: 261758
+Iteration done.
+Time step:  387 / 600
+C:  2873  | T: 261702
+Iteration done.
+Time step:  388 / 600
+C:  2874  | T: 261887
+Iteration done.
+Time step:  389 / 600
+C:  2871  | T: 261842
+Iteration done.
+Time step:  390 / 600
+C:  2871  | T: 261724
+Iteration done.
+Time step:  391 / 600
+C:  2872  | T: 261461
+Iteration done.
+Time step:  392 / 600
+C:  2873  | T: 261497
+Iteration done.
+Time step:  393 / 600
+C:  2874  | T: 261474
+Iteration done.
+Time step:  394 / 600
+C:  2873  | T: 261260
+Iteration done.
+Time step:  395 / 600
+C:  2873  | T: 261086
+Iteration done.
+Time step:  396 / 600
+C:  2871  | T: 261196
+Iteration done.
+Time step:  397 / 600
+C:  2867  | T: 261234
+Iteration done.
+Time step:  398 / 600
+C:  2868  | T: 261154
+Iteration done.
+Time step:  399 / 600
+C:  2866  | T: 260993
+Iteration done.
+Time step:  400 / 600
+C:  2864  | T: 260964
+Iteration done.
+Time step:  401 / 600
+C:  2864  | T: 260957
+Iteration done.
+Time step:  402 / 600
+C:  2861  | T: 260934
+Iteration done.
+Time step:  403 / 600
+C:  2862  | T: 261004
+Iteration done.
+Time step:  404 / 600
+C:  2864  | T: 260962
+Iteration done.
+Time step:  405 / 600
+C:  2864  | T: 260989
+Iteration done.
+Time step:  406 / 600
+C:  2863  | T: 261143
+Iteration done.
+Time step:  407 / 600
+C:  2861  | T: 260947
+Iteration done.
+Time step:  408 / 600
+C:  2862  | T: 260786
+Iteration done.
+Time step:  409 / 600
+C:  2862  | T: 260830
+Iteration done.
+Time step:  410 / 600
+C:  2863  | T: 260434
+Iteration done.
+Time step:  411 / 600
+C:  2862  | T: 260445
+Iteration done.
+Time step:  412 / 600
+C:  2863  | T: 260558
+Iteration done.
+Time step:  413 / 600
+C:  2862  | T: 260298
+Iteration done.
+Time step:  414 / 600
+C:  2860  | T: 260208
+Iteration done.
+Time step:  415 / 600
+C:  2859  | T: 260320
+Iteration done.
+Time step:  416 / 600
+C:  2860  | T: 260243
+Iteration done.
+Time step:  417 / 600
+C:  2860  | T: 260181
+Iteration done.
+Time step:  418 / 600
+C:  2861  | T: 260343
+Iteration done.
+Time step:  419 / 600
+C:  2859  | T: 260382
+Iteration done.
+Time step:  420 / 600
+C:  2858  | T: 260381
+Iteration done.
+Time step:  421 / 600
+C:  2857  | T: 260328
+Iteration done.
+Time step:  422 / 600
+C:  2859  | T: 260190
+Iteration done.
+Time step:  423 / 600
+C:  2860  | T: 260180
+Iteration done.
+Time step:  424 / 600
+C:  2859  | T: 260119
+Iteration done.
+Time step:  425 / 600
+C:  2856  | T: 260143
+Iteration done.
+Time step:  426 / 600
+C:  2853  | T: 260175
+Iteration done.
+Time step:  427 / 600
+C:  2853  | T: 259976
+Iteration done.
+Time step:  428 / 600
+C:  2854  | T: 260102
+Iteration done.
+Time step:  429 / 600
+C:  2854  | T: 260082
+Iteration done.
+Time step:  430 / 600
+C:  2855  | T: 259918
+Iteration done.
+Time step:  431 / 600
+C:  2856  | T: 259874
+Iteration done.
+Time step:  432 / 600
+C:  2855  | T: 259840
+Iteration done.
+Time step:  433 / 600
+C:  2854  | T: 259872
+Iteration done.
+Time step:  434 / 600
+C:  2853  | T: 259933
+Iteration done.
+Time step:  435 / 600
+C:  2853  | T: 260042
+Iteration done.
+Time step:  436 / 600
+C:  2853  | T: 259999
+Iteration done.
+Time step:  437 / 600
+C:  2853  | T: 260080
+Iteration done.
+Time step:  438 / 600
+C:  2852  | T: 260161
+Iteration done.
+Time step:  439 / 600
+C:  2853  | T: 260194
+Iteration done.
+Time step:  440 / 600
+C:  2852  | T: 260019
+Iteration done.
+Time step:  441 / 600
+C:  2855  | T: 259901
+Iteration done.
+Time step:  442 / 600
+C:  2855  | T: 260074
+Iteration done.
+Time step:  443 / 600
+C:  2854  | T: 260009
+Iteration done.
+Time step:  444 / 600
+C:  2852  | T: 259866
+Iteration done.
+Time step:  445 / 600
+C:  2853  | T: 260007
+Iteration done.
+Time step:  446 / 600
+C:  2850  | T: 259843
+Iteration done.
+Time step:  447 / 600
+C:  2850  | T: 260080
+Iteration done.
+Time step:  448 / 600
+C:  2849  | T: 259864
+Iteration done.
+Time step:  449 / 600
+C:  2849  | T: 259868
+Iteration done.
+Time step:  450 / 600
+C:  2848  | T: 259998
+Iteration done.
+Time step:  451 / 600
+C:  2847  | T: 259977
+Iteration done.
+Time step:  452 / 600
+C:  2848  | T: 260102
+Iteration done.
+Time step:  453 / 600
+C:  2846  | T: 260169
+Iteration done.
+Time step:  454 / 600
+C:  2848  | T: 260276
+Iteration done.
+Time step:  455 / 600
+C:  2844  | T: 260250
+Iteration done.
+Time step:  456 / 600
+C:  2845  | T: 260084
+Iteration done.
+Time step:  457 / 600
+C:  2841  | T: 260128
+Iteration done.
+Time step:  458 / 600
+C:  2841  | T: 260032
+Iteration done.
+Time step:  459 / 600
+C:  2842  | T: 260212
+Iteration done.
+Time step:  460 / 600
+C:  2845  | T: 260403
+Iteration done.
+Time step:  461 / 600
+C:  2846  | T: 260042
+Iteration done.
+Time step:  462 / 600
+C:  2843  | T: 259965
+Iteration done.
+Time step:  463 / 600
+C:  2842  | T: 260042
+Iteration done.
+Time step:  464 / 600
+C:  2845  | T: 260268
+Iteration done.
+Time step:  465 / 600
+C:  2845  | T: 260235
+Iteration done.
+Time step:  466 / 600
+C:  2845  | T: 260148
+Iteration done.
+Time step:  467 / 600
+C:  2844  | T: 260116
+Iteration done.
+Time step:  468 / 600
+C:  2843  | T: 260022
+Iteration done.
+Time step:  469 / 600
+C:  2843  | T: 260070
+Iteration done.
+Time step:  470 / 600
+C:  2844  | T: 259974
+Iteration done.
+Time step:  471 / 600
+C:  2842  | T: 260010
+Iteration done.
+Time step:  472 / 600
+C:  2838  | T: 260115
+Iteration done.
+Time step:  473 / 600
+C:  2840  | T: 260153
+Iteration done.
+Time step:  474 / 600
+C:  2840  | T: 260229
+Iteration done.
+Time step:  475 / 600
+C:  2844  | T: 260240
+Iteration done.
+Time step:  476 / 600
+C:  2846  | T: 260296
+Iteration done.
+Time step:  477 / 600
+C:  2841  | T: 260387
+Iteration done.
+Time step:  478 / 600
+C:  2839  | T: 260304
+Iteration done.
+Time step:  479 / 600
+C:  2838  | T: 260267
+Iteration done.
+Time step:  480 / 600
+C:  2838  | T: 260302
+Iteration done.
+Time step:  481 / 600
+C:  2838  | T: 260181
+Iteration done.
+Time step:  482 / 600
+C:  2837  | T: 260267
+Iteration done.
+Time step:  483 / 600
+C:  2838  | T: 260321
+Iteration done.
+Time step:  484 / 600
+C:  2835  | T: 260436
+Iteration done.
+Time step:  485 / 600
+C:  2835  | T: 260508
+Iteration done.
+Time step:  486 / 600
+C:  2833  | T: 260310
+Iteration done.
+Time step:  487 / 600
+C:  2835  | T: 260585
+Iteration done.
+Time step:  488 / 600
+C:  2831  | T: 260339
+Iteration done.
+Time step:  489 / 600
+C:  2830  | T: 260317
+Iteration done.
+Time step:  490 / 600
+C:  2832  | T: 260136
+Iteration done.
+Time step:  491 / 600
+C:  2832  | T: 260217
+Iteration done.
+Time step:  492 / 600
+C:  2832  | T: 260318
+Iteration done.
+Time step:  493 / 600
+C:  2834  | T: 260331
+Iteration done.
+Time step:  494 / 600
+C:  2834  | T: 260232
+Iteration done.
+Time step:  495 / 600
+C:  2835  | T: 260156
+Iteration done.
+Time step:  496 / 600
+C:  2831  | T: 260126
+Iteration done.
+Time step:  497 / 600
+C:  2831  | T: 259995
+Iteration done.
+Time step:  498 / 600
+C:  2828  | T: 260062
+Iteration done.
+Time step:  499 / 600
+C:  2828  | T: 260193
+Iteration done.
+Time step:  500 / 600
+C:  2825  | T: 260277
+Iteration done.
+Time step:  501 / 600
+C:  2824  | T: 260222
+Iteration done.
+Time step:  502 / 600
+C:  2826  | T: 260202
+Iteration done.
+Time step:  503 / 600
+C:  2824  | T: 260348
+Iteration done.
+Time step:  504 / 600
+C:  2824  | T: 260537
+Iteration done.
+Time step:  505 / 600
+C:  2823  | T: 260298
+Iteration done.
+Time step:  506 / 600
+C:  2819  | T: 260297
+Iteration done.
+Time step:  507 / 600
+C:  2817  | T: 260399
+Iteration done.
+Time step:  508 / 600
+C:  2816  | T: 260270
+Iteration done.
+Time step:  509 / 600
+C:  2814  | T: 260186
+Iteration done.
+Time step:  510 / 600
+C:  2814  | T: 260086
+Iteration done.
+Time step:  511 / 600
+C:  2815  | T: 259830
+Iteration done.
+Time step:  512 / 600
+C:  2814  | T: 259920
+Iteration done.
+Time step:  513 / 600
+C:  2816  | T: 260008
+Iteration done.
+Time step:  514 / 600
+C:  2815  | T: 260150
+Iteration done.
+Time step:  515 / 600
+C:  2814  | T: 260259
+Iteration done.
+Time step:  516 / 600
+C:  2813  | T: 260238
+Iteration done.
+Time step:  517 / 600
+C:  2813  | T: 260258
+Iteration done.
+Time step:  518 / 600
+C:  2809  | T: 260130
+Iteration done.
+Time step:  519 / 600
+C:  2809  | T: 260116
+Iteration done.
+Time step:  520 / 600
+C:  2808  | T: 260069
+Iteration done.
+Time step:  521 / 600
+C:  2809  | T: 260194
+Iteration done.
+Time step:  522 / 600
+C:  2812  | T: 260038
+Iteration done.
+Time step:  523 / 600
+C:  2809  | T: 260093
+Iteration done.
+Time step:  524 / 600
+C:  2808  | T: 259937
+Iteration done.
+Time step:  525 / 600
+C:  2807  | T: 259678
+Iteration done.
+Time step:  526 / 600
+C:  2804  | T: 259870
+Iteration done.
+Time step:  527 / 600
+C:  2804  | T: 259919
+Iteration done.
+Time step:  528 / 600
+C:  2804  | T: 259990
+Iteration done.
+Time step:  529 / 600
+C:  2806  | T: 259778
+Iteration done.
+Time step:  530 / 600
+C:  2804  | T: 259715
+Iteration done.
+Time step:  531 / 600
+C:  2805  | T: 259517
+Iteration done.
+Time step:  532 / 600
+C:  2807  | T: 259329
+Iteration done.
+Time step:  533 / 600
+C:  2809  | T: 259519
+Iteration done.
+Time step:  534 / 600
+C:  2809  | T: 259577
+Iteration done.
+Time step:  535 / 600
+C:  2807  | T: 259472
+Iteration done.
+Time step:  536 / 600
+C:  2807  | T: 259289
+Iteration done.
+Time step:  537 / 600
+C:  2809  | T: 259449
+Iteration done.
+Time step:  538 / 600
+C:  2808  | T: 259272
+Iteration done.
+Time step:  539 / 600
+C:  2801  | T: 259189
+Iteration done.
+Time step:  540 / 600
+C:  2802  | T: 259076
+Iteration done.
+Time step:  541 / 600
+C:  2806  | T: 259162
+Iteration done.
+Time step:  542 / 600
+C:  2806  | T: 259249
+Iteration done.
+Time step:  543 / 600
+C:  2803  | T: 259260
+Iteration done.
+Time step:  544 / 600
+C:  2804  | T: 259245
+Iteration done.
+Time step:  545 / 600
+C:  2804  | T: 259067
+Iteration done.
+Time step:  546 / 600
+C:  2802  | T: 259030
+Iteration done.
+Time step:  547 / 600
+C:  2798  | T: 258986
+Iteration done.
+Time step:  548 / 600
+C:  2795  | T: 258966
+Iteration done.
+Time step:  549 / 600
+C:  2796  | T: 258988
+Iteration done.
+Time step:  550 / 600
+C:  2799  | T: 258890
+Iteration done.
+Time step:  551 / 600
+C:  2803  | T: 259029
+Iteration done.
+Time step:  552 / 600
+C:  2802  | T: 259069
+Iteration done.
+Time step:  553 / 600
+C:  2802  | T: 259068
+Iteration done.
+Time step:  554 / 600
+C:  2807  | T: 258968
+Iteration done.
+Time step:  555 / 600
+C:  2808  | T: 259107
+Iteration done.
+Time step:  556 / 600
+C:  2807  | T: 259347
+Iteration done.
+Time step:  557 / 600
+C:  2804  | T: 259329
+Iteration done.
+Time step:  558 / 600
+C:  2800  | T: 259328
+Iteration done.
+Time step:  559 / 600
+C:  2794  | T: 259258
+Iteration done.
+Time step:  560 / 600
+C:  2794  | T: 259163
+Iteration done.
+Time step:  561 / 600
+C:  2792  | T: 259089
+Iteration done.
+Time step:  562 / 600
+C:  2790  | T: 258898
+Iteration done.
+Time step:  563 / 600
+C:  2787  | T: 258748
+Iteration done.
+Time step:  564 / 600
+C:  2785  | T: 258752
+Iteration done.
+Time step:  565 / 600
+C:  2786  | T: 258765
+Iteration done.
+Time step:  566 / 600
+C:  2788  | T: 258608
+Iteration done.
+Time step:  567 / 600
+C:  2786  | T: 258714
+Iteration done.
+Time step:  568 / 600
+C:  2781  | T: 258754
+Iteration done.
+Time step:  569 / 600
+C:  2783  | T: 258775
+Iteration done.
+Time step:  570 / 600
+C:  2786  | T: 258889
+Iteration done.
+Time step:  571 / 600
+C:  2785  | T: 258636
+Iteration done.
+Time step:  572 / 600
+C:  2784  | T: 258506
+Iteration done.
+Time step:  573 / 600
+C:  2782  | T: 258690
+Iteration done.
+Time step:  574 / 600
+C:  2782  | T: 258799
+Iteration done.
+Time step:  575 / 600
+C:  2782  | T: 258655
+Iteration done.
+Time step:  576 / 600
+C:  2780  | T: 258581
+Iteration done.
+Time step:  577 / 600
+C:  2776  | T: 258502
+Iteration done.
+Time step:  578 / 600
+C:  2773  | T: 258338
+Iteration done.
+Time step:  579 / 600
+C:  2772  | T: 258175
+Iteration done.
+Time step:  580 / 600
+C:  2773  | T: 258258
+Iteration done.
+Time step:  581 / 600
+C:  2771  | T: 258236
+Iteration done.
+Time step:  582 / 600
+C:  2772  | T: 258305
+Iteration done.
+Time step:  583 / 600
+C:  2769  | T: 258201
+Iteration done.
+Time step:  584 / 600
+C:  2768  | T: 258193
+Iteration done.
+Time step:  585 / 600
+C:  2770  | T: 258099
+Iteration done.
+Time step:  586 / 600
+C:  2770  | T: 257933
+Iteration done.
+Time step:  587 / 600
+C:  2771  | T: 257919
+Iteration done.
+Time step:  588 / 600
+C:  2767  | T: 257912
+Iteration done.
+Time step:  589 / 600
+C:  2768  | T: 257873
+Iteration done.
+Time step:  590 / 600
+C:  2769  | T: 257697
+Iteration done.
+Time step:  591 / 600
+C:  2769  | T: 257889
+Iteration done.
+Time step:  592 / 600
+C:  2769  | T: 257911
+Iteration done.
+Time step:  593 / 600
+C:  2770  | T: 257904
+Iteration done.
+Time step:  594 / 600
+C:  2771  | T: 258039
+Iteration done.
+Time step:  595 / 600
+C:  2771  | T: 257771
+Iteration done.
+Time step:  596 / 600
+C:  2772  | T: 257957
+Iteration done.
+Time step:  597 / 600
+C:  2770  | T: 257738
+Iteration done.
+Time step:  598 / 600
+C:  2769  | T: 257828
+Iteration done.
+Time step:  599 / 600
+C:  2768  | T: 257708
+Iteration done.
+Time step:  600 / 600
+The final time has been reached, so the simulation is over.
+Pickling....
+Pickling done.
+Successfully opened the previous simulation.

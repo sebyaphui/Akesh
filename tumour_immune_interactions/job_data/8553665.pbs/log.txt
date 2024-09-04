@@ -1,0 +1,309 @@
+Successfully opened the previous simulation.
+Creating a new simulation.
+['Default', 'Config1', 'Config2', 'Config3', 'Config4', 'Config5', 'Config6', 'Config7', 'Config9', 'Config10', 'MConfig1', 'MConfig1Mod', 'Config8', 'Config11', 'Config12', 'Config13', 'Config14', 'Config15', 'Config16', 'Config17', 'Config18', 'Config19', 'Config20', 'Config21', 'Config22', 'Config23', 'Config24', 'Config25', 'Config26', 'Config27', 'Config28', 'Config29', 'Config30', 'Config31', 'Config32', 'Config33', 'Test']
+101
+The simulation is starting.
+C:  10591  | T: 10019
+Iteration done.
+Time step:  1 / 100
+C:  11267  | T: 10039
+Iteration done.
+Time step:  2 / 100
+C:  11921  | T: 10061
+Iteration done.
+Time step:  3 / 100
+C:  12656  | T: 10070
+Iteration done.
+Time step:  4 / 100
+C:  13406  | T: 10083
+Iteration done.
+Time step:  5 / 100
+C:  14268  | T: 10110
+Iteration done.
+Time step:  6 / 100
+C:  15207  | T: 10141
+Iteration done.
+Time step:  7 / 100
+C:  16207  | T: 10163
+Iteration done.
+Time step:  8 / 100
+C:  17268  | T: 10188
+Iteration done.
+Time step:  9 / 100
+C:  18354  | T: 10205
+Iteration done.
+Time step:  10 / 100
+C:  19549  | T: 10229
+Iteration done.
+Time step:  11 / 100
+C:  20830  | T: 10247
+Iteration done.
+Time step:  12 / 100
+C:  22261  | T: 10279
+Iteration done.
+Time step:  13 / 100
+C:  23687  | T: 10313
+Iteration done.
+Time step:  14 / 100
+C:  25291  | T: 10337
+Iteration done.
+Time step:  15 / 100
+C:  26972  | T: 10364
+Iteration done.
+Time step:  16 / 100
+C:  28807  | T: 10392
+Iteration done.
+Time step:  17 / 100
+C:  30764  | T: 10431
+Iteration done.
+Time step:  18 / 100
+C:  32818  | T: 10464
+Iteration done.
+Time step:  19 / 100
+C:  35076  | T: 10493
+Iteration done.
+Time step:  20 / 100
+C:  37470  | T: 10535
+Iteration done.
+Time step:  21 / 100
+C:  40113  | T: 10578
+Iteration done.
+Time step:  22 / 100
+C:  42886  | T: 10621
+Iteration done.
+Time step:  23 / 100
+C:  45832  | T: 10665
+Iteration done.
+Time step:  24 / 100
+C:  48947  | T: 10720
+Iteration done.
+Time step:  25 / 100
+C:  52311  | T: 10778
+Iteration done.
+Time step:  26 / 100
+C:  56018  | T: 10841
+Iteration done.
+Time step:  27 / 100
+C:  59937  | T: 10898
+Iteration done.
+Time step:  28 / 100
+C:  64197  | T: 10966
+Iteration done.
+Time step:  29 / 100
+C:  68678  | T: 11032
+Iteration done.
+Time step:  30 / 100
+C:  73408  | T: 11100
+Iteration done.
+Time step:  31 / 100
+C:  78591  | T: 11168
+Iteration done.
+Time step:  32 / 100
+C:  84063  | T: 11253
+Iteration done.
+Time step:  33 / 100
+C:  89842  | T: 11329
+Iteration done.
+Time step:  34 / 100
+C:  95985  | T: 11432
+Iteration done.
+Time step:  35 / 100
+C:  102627  | T: 11513
+Iteration done.
+Time step:  36 / 100
+C:  109809  | T: 11625
+Iteration done.
+Time step:  37 / 100
+C:  117447  | T: 11737
+Iteration done.
+Time step:  38 / 100
+C:  125288  | T: 11852
+Iteration done.
+Time step:  39 / 100
+C:  133537  | T: 11984
+Iteration done.
+Time step:  40 / 100
+C:  142484  | T: 12134
+Iteration done.
+Time step:  41 / 100
+C:  152057  | T: 12279
+Iteration done.
+Time step:  42 / 100
+C:  161976  | T: 12450
+Iteration done.
+Time step:  43 / 100
+C:  172687  | T: 12637
+Iteration done.
+Time step:  44 / 100
+C:  184023  | T: 12816
+Iteration done.
+Time step:  45 / 100
+C:  196044  | T: 13015
+Iteration done.
+Time step:  46 / 100
+C:  208642  | T: 13266
+Iteration done.
+Time step:  47 / 100
+C:  222050  | T: 13530
+Iteration done.
+Time step:  48 / 100
+C:  236062  | T: 13782
+Iteration done.
+Time step:  49 / 100
+C:  250883  | T: 14088
+Iteration done.
+Time step:  50 / 100
+C:  266466  | T: 14396
+Iteration done.
+Time step:  51 / 100
+C:  283039  | T: 14728
+Iteration done.
+Time step:  52 / 100
+C:  300063  | T: 15100
+Iteration done.
+Time step:  53 / 100
+C:  318067  | T: 15471
+Iteration done.
+Time step:  54 / 100
+C:  336829  | T: 15899
+Iteration done.
+Time step:  55 / 100
+C:  356308  | T: 16448
+Iteration done.
+Time step:  56 / 100
+C:  376242  | T: 16970
+Iteration done.
+Time step:  57 / 100
+C:  397030  | T: 17603
+Iteration done.
+Time step:  58 / 100
+C:  418503  | T: 18301
+Iteration done.
+Time step:  59 / 100
+C:  441063  | T: 18964
+Iteration done.
+Time step:  60 / 100
+C:  464373  | T: 19728
+Iteration done.
+Time step:  61 / 100
+C:  488104  | T: 20598
+Iteration done.
+Time step:  62 / 100
+C:  512545  | T: 21525
+Iteration done.
+Time step:  63 / 100
+C:  537143  | T: 22569
+Iteration done.
+Time step:  64 / 100
+C:  563131  | T: 23705
+Iteration done.
+Time step:  65 / 100
+C:  589919  | T: 24889
+Iteration done.
+Time step:  66 / 100
+C:  616524  | T: 26196
+Iteration done.
+Time step:  67 / 100
+C:  643828  | T: 27701
+Iteration done.
+Time step:  68 / 100
+C:  671017  | T: 29339
+Iteration done.
+Time step:  69 / 100
+C:  698646  | T: 31105
+Iteration done.
+Time step:  70 / 100
+C:  727097  | T: 33275
+Iteration done.
+Time step:  71 / 100
+C:  755082  | T: 35488
+Iteration done.
+Time step:  72 / 100
+C:  783611  | T: 37936
+Iteration done.
+Time step:  73 / 100
+C:  811642  | T: 40721
+Iteration done.
+Time step:  74 / 100
+C:  839472  | T: 43719
+Iteration done.
+Time step:  75 / 100
+C:  866658  | T: 47005
+Iteration done.
+Time step:  76 / 100
+C:  893955  | T: 50726
+Iteration done.
+Time step:  77 / 100
+C:  920811  | T: 54805
+Iteration done.
+Time step:  78 / 100
+C:  947074  | T: 59249
+Iteration done.
+Time step:  79 / 100
+C:  973480  | T: 64386
+Iteration done.
+Time step:  80 / 100
+C:  999239  | T: 70088
+Iteration done.
+Time step:  81 / 100
+C:  1023875  | T: 76439
+Iteration done.
+Time step:  82 / 100
+C:  1047760  | T: 83451
+Iteration done.
+Time step:  83 / 100
+C:  1071462  | T: 91187
+Iteration done.
+Time step:  84 / 100
+C:  1093209  | T: 99620
+Iteration done.
+Time step:  85 / 100
+C:  1114745  | T: 109024
+Iteration done.
+Time step:  86 / 100
+C:  1135089  | T: 119330
+Iteration done.
+Time step:  87 / 100
+C:  1155607  | T: 130729
+Iteration done.
+Time step:  88 / 100
+C:  1174928  | T: 143228
+Iteration done.
+Time step:  89 / 100
+C:  1193081  | T: 156675
+Iteration done.
+Time step:  90 / 100
+C:  1210575  | T: 171604
+Iteration done.
+Time step:  91 / 100
+C:  1227168  | T: 187754
+Iteration done.
+Time step:  92 / 100
+C:  1242527  | T: 205550
+Iteration done.
+Time step:  93 / 100
+C:  1256870  | T: 224190
+Iteration done.
+Time step:  94 / 100
+C:  1271495  | T: 244356
+Iteration done.
+Time step:  95 / 100
+C:  1283428  | T: 265456
+Iteration done.
+Time step:  96 / 100
+C:  1295174  | T: 288134
+Iteration done.
+Time step:  97 / 100
+C:  1305250  | T: 312094
+Iteration done.
+Time step:  98 / 100
+C:  1314218  | T: 336650
+Iteration done.
+Time step:  99 / 100
+C:  1322527  | T: 361344
+Iteration done.
+Time step:  100 / 100
+The final time has been reached, so the simulation is over.
+Pickling....
+Pickling done.
+Successfully opened the previous simulation.

@@ -1,0 +1,1 @@
+## A place for storing job data when a cluster is used

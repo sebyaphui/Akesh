@@ -1,0 +1,9 @@
+/.vscode
+Tumour_growth_model.ipynb
+/sim_data
+*.pyc
+__pycache__/
+/sim_venv
+*.o*
+*.e*
+/logs

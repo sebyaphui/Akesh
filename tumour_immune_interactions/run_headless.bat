@@ -1,0 +1,1 @@
+py -3.10 sim\main.py -sf y -ow y -c FasterSequenceTest >log.txt
